@@ -1,0 +1,4 @@
+import TutoriaIndonesia from "./TutoriaIndonesia";
+export default function App() {
+  return <TutoriaIndonesia />;
+}
